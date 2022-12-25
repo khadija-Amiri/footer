@@ -1,0 +1,67 @@
+.all-part{
+    width: 1500px;
+    height: 500px;
+    background: linear-gradient(180deg, #1B2B4F 0%, #111B31 100%);
+    margin-left: 10px;
+}
+.images{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 120px;
+    top: 40px;
+}
+
+.paragraph{
+    position: absolute;
+    width: 500px;
+    margin-top:270px;
+    margin-left: 170px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.fa-brands{
+    color: rgba(255, 255, 255, 0.4);
+    display: inline-block;
+    width: 10px;
+    height: 300px;
+   font-size: 50px;
+    margin-top: 400px;
+    margin-left: 140px;
+}
+.links,.links-1,.links-2,.links-3,.links-4{
+    position: absolute;
+    width: 124.44px;
+    height: 59.68px;
+    left: 800px;
+    top: 30px;
+    font-family: 'Inter';
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+.links-1{
+    left: 930px;
+}
+.links-2{
+    left: 1050px;
+}
+.links-3{
+    left: 1160px;
+}
+.links-4{
+    left: 1270px;
+}
+
+.pages,.first{
+    padding: 10px;
+    list-style: none;
+}
+.lists a{
+    color: white;
+    text-decoration: none;
+}
